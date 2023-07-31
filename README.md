@@ -2,11 +2,11 @@
 
 ## Learning objectives
 
-At the end of the project you should be able to explain to anyone, without the help of google:
+At the end of this project, you are expected to explain to anyone, without the help of google:
 
-* what is a virtual machine
+* What is a virtual machine
 
-* What is a vagrant
+* What is vagrant
 
 * Who wrote vagrant
 
