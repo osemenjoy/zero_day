@@ -13,3 +13,6 @@ At the end of this project, you are expected to explain to anyone, without the h
 * What is ubuntu
 
 * What does "Ubuntu" mean
+
+* How to use VMS with vagrant
+
